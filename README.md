@@ -6,7 +6,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:kubrayilmaz.edu@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@kubrayilmaz.edu)
 <a href="#" target="_blank"> <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" height="35"/> </a>  
-<p align="left"> <img src="https://kaggle.com/ghpvc/?username=kubrayilmaz1" alt="kubrayilmaz1" /> </p>
+
 
 
 
